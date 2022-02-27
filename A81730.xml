@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Draught of an Act for Toleration with a few short remarks thereupon</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81730</idno>
+            <idno type="STC">Wing D2141B</idno>
+            <idno type="STC">ESTC N7570</idno>
+            <idno type="EEBO-CITATION">99897118</idno>
+            <idno type="PROQUEST">99897118</idno>
+            <idno type="VID">135040</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81730)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135040)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2482:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Draught of an Act for Toleration with a few short remarks thereupon</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Arguments against the Act for Toleration of Episcopalians in Scotland.</note>
+                  <note>Caption title.</note>
+                  <note>Date of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Episcopal Church in Scotland --  Controversial literature --  Early works to 1800.</term>
+               <term>Religious tolerance --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:135040:1"/>
+            <head>Draught of an ACT FOR TOLERATION WITH A few ſhort REMARKS thereupon.</head>
+            <p>THe Queen's Majeſty taking to Her ſerious Conſideration, That a great and conſiderable
+part of Her Subjects in this Her ancient Kingdom, have been Baptiſed and Educated in the
+Communion of the Epiſcopal Church, and are of the Epiſcopal Principles and Perſwaſion, and
+averſe from the joining with the Presbyterian Government, according to the preſent
+E<g ref="char:EOLhyphen"/>ſtabliſhment and the Exerciſe of it. And Her Majeſty being deſireous to give juſt and
+due Eaſe to all Her Subjects, doth therefore, with the Advice and Conſent of the Eſtates of
+Parliament, Statute, Enact and ordain, that from henceforth it ſhall be Lawful for all Her
+Majeſty's Subjects of the Epiſcopal Perſwaſion, to hold Meetings for Divine Worſhip with,
+and to hear God's Word and receive the Ho<g ref="char:EOLhyphen"/>ly Sacraments from, Miniſters of the Epiſcopal
+Perſwaſion, in all Towns and Pa<g ref="char:EOLhyphen"/>riſhes of this Kingdom, without any Lett or Impediment
+whatſomever. As alſo, That it ſhall be lawful for ſuch Pariſhes as are now, or hereafter
+ſhall be vacant, where in the plurality of the Heretors, Liferenters, and Tenents having
+ſtanding Tacks, are of the Epiſcopal Perſwaſion, to call Epiſcopal Miniſters for to
+Preach the Goſpel, to Adminiſter the Sacraments, and to Exerciſe Church-diſcipline in their
+reſpective Pariſhes and Stations to which they ſhall be called. As alſo, to have full Right
+and Title to their reſpective Manſes and Gliebs, and to the legally ſettled Stipends,
+Maintenances and Benefices, appointed and ſettled by Law upon ſuch Miniſters as ſerve in
+the ſaid Pariſhes, according to Law and Cuſtom, certifying all ſuch as preſume to
+Interrupt or Diſturb ſuch Miniſters, either in Meeting-houſes or Pa<g ref="char:EOLhyphen"/>riſh Churches, in the
+exerciſe of their Function, that they ſhall be puniſhed con<g ref="char:EOLhyphen"/>form to the good and wholeſome
+Laws made by Her Majeſty's Religious Prede<g ref="char:EOLhyphen"/>ceſſors, for the Protection of the Miniſters of
+the Goſpel, and appoints all Her Majeſty's Judges to decern accordingly. And in caſe any
+ſuch Epiſcopal Mini<g ref="char:EOLhyphen"/>ſters ſhall be found to Preach any Seditious Doctrines tending to
+Diſloyalty, or to the Diſturbance of the publick Peace and Government, or contrary to the
+Pro<g ref="char:EOLhyphen"/>teſtant Religion, that they ſhall only be convented before the Privy Council, or ſuch as
+ſhall be appointed by them, and puniſhed according to the demerit of their Crime and Offences.
+And it is hereby Statute, Enacted, and Ordained, That the foreſaid Indulgence and Toleration
+ſhall have full Force and Effect from the Day and Date of theſe preſents, and that
+notwithſtanding of any former Acts of Parliament, which from henceforth ſhall make no
+Derogation from the Force of this preſent Indulgence and Toleration. Finally, It is hereby
+Enacted and Ap<g ref="char:EOLhyphen"/>pointed, That the Lords of Privy Council and Lords of Seſſion, Sheriffs, and all
+others Her Majeſty's Judges, ſhall interpret this preſent Act of Indulgence and Toleration,
+in the moſt Benign and Favourable Senſe, in behalf of the ſaid Indul<g ref="char:EOLhyphen"/>ged Miniſters, and
+ſee it put to vigorous Execution, in all points.</p>
+            <div type="part">
+               <pb n="2" facs="tcp:135040:2"/>
+               <head>REMARKS upon the foregoing Draught.</head>
+               <p>THis being the Second <hi>Embrio</hi> or <hi>Specimen</hi> handed about by the Promoters of the
+<hi>Toleration-Project,</hi> we may take it as the Reſult of their Riper Thoughts, and be allowed
+briefly to conſider it.</p>
+               <p>1. Among the many Arguments given againſt any Toleration to Prelatical Diſ<g ref="char:EOLhyphen"/>ſenters, in our
+preſent Circumſtances, this is one never yet Anſwered; That as it is the Civil Intereſt of
+every Nation to have but one eſtabliſhed National Church-Government, Diſciplin and Worſhip;
+ſo alſo, that every Perſon within the Na<g ref="char:EOLhyphen"/>tion ſhould conform themſelves thereto: And that
+never yet did any Wiſe People grant a legal Toleration to Diſſenters, where the Diſſent
+was not ſounded either upon doubtful and ſcrupled Terms of Communion, or upon the Hardſhips
+of ex<g ref="char:EOLhyphen"/>ternal Force. But neither of theſe can be alledged in the preſent Caſe; and there<g ref="char:EOLhyphen"/>fore
+all Toleration muſt tend to cheriſh a Pernicious Party, and ſoment a Wicked Deſign of
+overturning the preſent Quiet and Happy Eſtabliſhment.</p>
+               <p>2. This Toleration, being only for Epiſcopalians, doth moſt directly ſet them up in
+competition with, and in ſome reſpects preſerably to Presbytry; to try their skill and
+ſtrength in overthrowing the legal Church.</p>
+               <p>3. The Miniſters Indulg'd or Tolerated, are by this Draught to give no Evi<g ref="char:EOLhyphen"/>dence either of
+their Loyalty or Orthodoxy; ſo that their Principles, both con<g ref="char:EOLhyphen"/>trary to the Confeſſion of
+Faith, and againſt Her Majeſty's Succeſſion and Govern<g ref="char:EOLhyphen"/>ment, as declared by the Meeting of
+Eſtates, are reſerved and ſecured; and they are at liberty (tho' not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o Preach, yet) to
+Traffique and Practiſe for the <hi>Pretender</hi> at <hi>St. Germains,</hi> according to their
+known Inclinations. By the Former Draught, they were to ſwear the Allegiance, and to ſign the
+Conſeſſion contained in the Teſt and enacted in the Reign of K. <hi>Ja.</hi> 6. Which
+Condition, tho' derogatory to the Act of Parliament 1690, ratifying the <hi>Weſtminſter</hi>
+Conſeſſion, and in ſo far a Re<g ref="char:EOLhyphen"/>trograde ſtep to the Rudiments of our Reformation, and
+conſequently backwards to Popery; yet it was better than nothing at all. But it ſeems, tho'
+ſome have Latitude enough for Swearing and Signing, in ſubſerviency to Deſigns of greater
+Service; yet it is found upon after-Thoughts, that even that Conſeſſion is of too hard
+Digeſtion to others, as containing ſome Principles of Liberty, and againſt Arbitrary
+Courſes, and ſuch like Tenets as are not for their purpoſe.</p>
+               <p>4. This Draught founds the Diſſent from Communion, upon being <hi>Baptiſed and Educated in
+the Communion of the Epiſcopal Church.</hi> That their Education hinders not their peaceable
+joining with the National Worſhip, is plain from the Experi<g ref="char:EOLhyphen"/>ence of ſeveral Years ſince the
+Revolution, till within theſe few Moneths, that ſome have been practiſed inro a contrary
+Byaſs. And it is no leſs plain, that their Educators, the Miniſters, can never have the Brow
+to pretend the leaſt Pinch or Qualm of Conſcience in this Matter; Since their own Addreſſes
+to King <hi>Wil<g ref="char:EOLhyphen"/>liam,</hi> and to his High Commiſſioner the Earl of <hi>Tullibardine,</hi> as
+likewiſe thoſe to the General Aſſembly 1692, upon the <hi>Formula</hi> ſent from Court,
+are ſtanding Wit<g ref="char:EOLhyphen"/>neſſes againſt them. But that their being <hi>Baptiſed</hi> in the
+Epiſcopal Communion ſhould be mentioned as a Ground of their Diſſent, is altogether
+ſurprizing; As if the Epiſcopal Baptiſm were not that <hi>one Baptiſm</hi> of the Catholick
+Church, which the Presbyterians hold their Baptiſm to be: For whatever Grounds Presbyterians give
+for ſeparating from Prelatical Communion, yet they never gave their Baptiſm for one. But it
+ſeems, by this Scheme, that the Epiſcopal People are taught to reckon themſelves Baptiſed
+unto <hi>Prelacy,</hi> and not unto <hi>Chriſt.</hi> And unto what then are their Children
+Baptiſed ſince the Revolution? Or unto what were the Conformiſts of the late times
+Baptiſed, before Prelacy came in? This is an Inſinu<g ref="char:EOLhyphen"/>ation
+<pb n="3" facs="tcp:135040:2"/>of the laſt Diſgrace among Proteſtants, and
+only fit for the Dragoon-Con<g ref="char:EOLhyphen"/>verſions of <hi>France,</hi> where, it a Popiſh Surgeon or Midwife
+Baptiſed a Child, that Child was ever after to be held as a <hi>Roman</hi> Catholick.</p>
+               <p>5. What makes any of the People of this Nation <hi>averſe from joining with Pres<g ref="char:EOLhyphen"/>byterian
+Government and Worſhip,</hi> but either,
+<list>
+                     <item>1. Downright Threatning and Vio<g ref="char:EOLhyphen"/>lence us'd by ſome Maſters unto thoſe, over whom they
+have Influence and Power, of which there are divers Inſtances. Or,</item>
+                     <item>2. That Mens Vices are galled by Presbyterian Diſcipline, and their Libertine and Popiſh
+Deſigns obſtructed. And,</item>
+                     <item>3. That they have of late got great Encouragement to expect a Change. We chal<g ref="char:EOLhyphen"/>lenge the Wit
+of our Adverſaries to aſſign any other Reaſon of this pretended <hi>Aver<g ref="char:EOLhyphen"/>ſion,</hi> which
+was not heard of nor known among any of the People, till of late ſome have taken vaſt pains
+<hi>viis &amp; modis</hi> to procure it.</item>
+                  </list> The Nation was in Peace and Quiet, and well diſpos'd to comply with the
+Eſtabliſhment; till ſome who delight in Contention, threw their Fire balls and told People,
+that they ſhould be grati<g ref="char:EOLhyphen"/>fied in their unreaſonable Demands; and now that they have rais'd the
+Flame, they muſt have Oyl, inſtead of Water, to quench it.</p>
+               <p>6. The Draught ſets forth, That the Deſign is, <hi>To give juſt and due Eaſe to all the
+Subjects;</hi> That is indeed flat Licentiouſneſs without controle. For this is an
+<hi>Eaſe</hi> which no Body needs, and the granting whereof by a Law, wou'd prove the greateſt
+Diſquiet and Diſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaſe to Her Majeſty's beſt Subjects. For, </p>
+               <p>1. It con<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ains a Toleration in every Pariſh, without exception, contrary to the Laws
+againſt, Intruding into planted Congregations, and which in many places (as appears already by
+the Example of the Tumults in <hi>G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aſgow</hi>) can never be at<g ref="char:EOLhyphen"/>tempted without Blood, and the
+moſt fatal Diſcontents and Diſorders.</p>
+               <p>2. It contains a Comprehenſion, which carries both the Overturning of the Laws of our
+Settlement, and moſt horrid Confuſion in the boſom of it; the Nulli<g ref="char:EOLhyphen"/>fying of Diſciplin, the
+Impunity of Immoral Practices, the Exerciſe both of Era<g ref="char:EOLhyphen"/>ſtianiſm and Independency, a
+reſtoring of Prelatical Juriſdiction and Power, and a tranſmitting (at beſt) of incurable
+Schiſm to Poſterity: Beſide, a moſt grievous Hardſhip upon ſuch as Own and Adhere to
+the National Worſhip, where in any Pariſh they happen to be the leſſer or weaker part: For,
+it were hard enough, that they ſhould be obliged out of their own Purſes to Maintain a
+Presbyterian Miniſter, or elſe to want the Ordinances of the Goſpel; yet even for this, there
+is no Pro<g ref="char:EOLhyphen"/>viſion of Toleration made by this Draught, for them.</p>
+               <p>3. It opens a Door to p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſecure Presbyterians for inſiſting upon their legal Priviled<g ref="char:EOLhyphen"/>ges,
+and teſtifying the leaſt Diſ-ſatisfaction with the Intruſions of Prelatiſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s; for
+<hi>they must be puniſhed according to the good and wholeſom Laws made by Her Majesty's
+Religious Prede<g ref="char:EOLhyphen"/>ceſſors</hi> (viz <hi>Charles</hi> 2. and <hi>James</hi> 7.) <hi>for the
+Protection of the Miniſters of the Goſpel:</hi> By which Title, theſe whom the Country call
+<hi>Curats,</hi> are plainly underſtood. So that, this is evidently to Revive the
+<hi>Caroline</hi> and <hi>Jacobite</hi> Perſecution againſt Presbyterians, upon every pretext
+that may be interpreted an <hi>Interruption</hi> or <hi>Diſturbance</hi> of the Prelatiſts,
+tho' acting never ſo much againſt Law: And indeed Prelacy can never be Tolerated, far leſs
+Supported in this Land, without Blood and a ſtanding Army.</p>
+               <p>4. For Sedition, Diſloyalty and Hereſy, they are <hi>only to be convented before the Privy
+Council, or ſuch as ſhall be appointed by them.</hi> One would think in all Reaſon, that the
+Council before whom they are to be convented, ſhould be very Presbyterian and Or<g ref="char:EOLhyphen"/>thodox, as well
+as Loyal, otherwiſe there can be no Security from the Tolerated Party, nor can the Delinquents be
+under any Fear or Reſtraint, in appearing before Judges of their own Principles and
+Perſwaſion.</p>
+               <p>5. That the <hi>Indulgence and Toleration ſhall have full Force and Effect from the Day and
+Date of the Act, notwithſtanding former Acts of Parliament,</hi> is in effect a diſpenſing
+with theſe Acts for the time paſt, and an Indemnity for the Tranſgreſſions already made.
+And this carries in it a plain and ſhort Anſwer to all the Complaints and Grievances given in
+to the Council by the General Aſſembly, and their Commiſſion, of Encroachments and
+<pb n="4" facs="tcp:135040:3" rendition="simple:additions"/>diſorderly Practices already committed
+contrary to Law, of which no Redreſs is hence<g ref="char:EOLhyphen"/>forward to be expected.</p>
+               <p>6. The Appointment of <hi>Interpreting this Act in the moſt benign and favourable Senſe in
+be<g ref="char:EOLhyphen"/>half of the Miniſters indulged, and of ſeeing it put to vigorous Execution,</hi> is in other
+Words, as Matters are now ſtared, a full aboliſhing of Presbytry, and an eſtabliſhing of
+Prelacy by Law, Theſe things are ſo plain, and the Legiſlative at this time, we hope,
+entruſted into ſo honeſt Hands, that as he muſt be a bold Man, who dares preſent ſuch
+an Act to a <hi>Scots</hi> Parliament, after the late happy Revolution, ſo let the Tolerators
+vary their Projeſt as they will, we cannot doubt, but that it ſhall prove abortive.</p>
+               <p>To conclude, Pamphlets being at preſent much in faſhion, it may not perhaps be a<g ref="char:EOLhyphen"/>miſs to
+ſubjoin a Citation or two out of one.</p>
+               <p>
+                  <hi>The Intereſt of</hi> England <hi>conſidered, Pag.</hi> 25. — Places muſt be
+filled with theſe, who never Qualified themſelves by Civil Teſts, till Honour, or Advantage,
+or deeper De<g ref="char:EOLhyphen"/>ſigns, engag'd them, — who were againſt the Abdication of the late King
+<hi>James,</hi> the Aſſociation to ſupport King <hi>William,</hi> and the Abjuration of the
+pretended Prince of <hi>Wales,</hi> in order to maintain Her Majeſty's unqueſtionable Right to
+the Throne, and the Succeſſion in the Proteſtant Line. <hi>Pag.</hi> 29. The Whigs have been
+a firm Rampart to the Liberties of the People, againſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll the Aſſaults of Arbitrary Power;
+and have ſo heartily oppos'd the Deſigns of ill Reigns, as to get the Names of Common-Wealths
+Men: But who, to ſhew they were thorow Friends to our Conſtitution, and for de<g ref="char:EOLhyphen"/>fending <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+Prerogative veſted in a good Prince, who, they knew, would uſe it to their Advantage, and who
+deſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v'd the Marks of their Gratitude, have gone ſo far on the obli<g ref="char:EOLhyphen"/>ging side in the late
+Reign, as to be term'd Countiers in Reproach. <hi>Pag.</hi> 38. The Pro<g ref="char:EOLhyphen"/>teſtant Intereſt is
+attacqu'd by the Devil heading an Army of Libertines and Practical Atheiſts at Home, and a
+Confederacy of Papiſts Abroad; — and when they have dar'd to make ſuch Progreſs in a
+time of Action and Buſineſs Abroad, what Attempts are we not to look for from them, when they
+come to enjoy a Peaceful Leaſure for perfect<g ref="char:EOLhyphen"/>ing their Deſigns. <hi>Pag.</hi> 74. The depriving
+the Proteſtants in <hi>France</hi> of their Offices and Places of Truſt, which had been
+confirm'd to them by the Edict of <hi>Nantes,</hi> was one of the firſt Steps taken to repeal
+that Edict, and extirpat the Reformation.</p>
+               <q>
+                  <l>Chriſti, inferre Lupos, qui vult in ovile, voraces;</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>Simulans cudere, cudit <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </q>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
